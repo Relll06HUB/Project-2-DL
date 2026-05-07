@@ -24,7 +24,7 @@ Dua pendekatan utama yang diimplementasikan dan dibandingkan dalam proyek ini:
 - **Jumlah Data Setelah Pramosresan (termasuk penghapus nilai duplikat dan null values):** 47,354
 - **Jumlah Kelas:** 6 kelas
 - **Jumlah Kolom:** 2 kolom fitur
-- **Nama Kolom Setelah Pramosresan:
+- **Nama Kolom Setelah Pramosresan:**
 	- `clean_tweet_text`
 	- `cyberbullying_type`
 
