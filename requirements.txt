@@ -1,0 +1,7 @@
+TensorFlow==2.19.0
+Scikit-learn==1.6.1
+NumPy==2.0.2
+Pandas==2.2.2
+NLTK==3.9.1
+Matplotlib==3.10.0
+Seaborn==0.13.2
