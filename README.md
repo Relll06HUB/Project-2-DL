@@ -43,7 +43,7 @@ Dua pendekatan utama yang diimplementasikan dan dibandingkan dalam proyek ini:
 1. Download dataset dari link yang disertakan di atas
 2. Letakkan folder dalam bentuk zip yang diperoleh pada tempat penyimpanan sesuai kenyamanan
 3. Ekstrak folder zip tersebut
-4. Ambil file bernama 'cyberbullying_tweets.csv' yang diperoleh setelah proses ekstraksi folder zip sebelumnya
+4. Ambil file bernama `cyberbullying_tweets.csv` yang diperoleh setelah proses ekstraksi folder zip sebelumnya
 
 ---
 
