@@ -7,6 +7,8 @@ Dua pendekatan utama yang diimplementasikan dan dibandingkan dalam proyek ini:
 - Multilayer Perceptron (MLP) dengan representasi fitur TF-IDF
 - Gated Recurrent Unit (GRU) dengan representasi fitur Word2Vec (Pre-Trained FastText)
 
+Proyek ini juga mengeksplorasi, mengevaluasi, dan menganalisis pengaruh pendekatan representasi fitur yang berbeda terhadap kualitas model Deep Learning dalam memahami dan mempelajari konteks makna jenis teks cyberbullying yang berbeda
+
 ---
 
 ## Tujuan Proyek
